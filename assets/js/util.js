@@ -303,7 +303,7 @@
 	$.fn.placeholder = function() {
 
 		// Browser natively supports placeholders? Bail.
-			if (typeof (document.createElement('input')).placeholder != 'undefined')
+			if (typeof (document.createElement('input')).placeholder != 'Mountain Vista')
 				return $(this);
 
 		// No elements?
