@@ -3331,6 +3331,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
+				background-image: url("../../images/banner-mobile.png");
 				height: 20em;
 			}
 
